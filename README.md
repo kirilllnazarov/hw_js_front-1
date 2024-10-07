@@ -1,2 +1,1 @@
-# Homeworks
-# hw_js_front-1
+IT-incubator js course homework 1 sprint.
